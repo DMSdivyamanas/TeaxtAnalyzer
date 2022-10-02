@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  background-color: #ad1aa6;
+}
+.h1{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: linear-gradient(rgb(255 255 255), #6ba5f9);
+  height:100vh;
+}
+#textBox{
+  background-color: inherit;
+  color: inherit;
+}
+.my-7{
+  margin-top: 14vh;
+}
+.form-control{
+  box-shadow: rgb(57 54 225 / 35%) 0px 5px 15px;
+}
